@@ -124,7 +124,7 @@ public class BlackjackGUI extends JPanel {
 	}
 
 	private void setupFrame() {
-		JFrame frame = new JFrame("CMSC132  BlackJack Game");
+		JFrame frame = new JFrame("BlackJack Game");
 		frame.setResizable(false);
 		frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		frame.setContentPane(this);

@@ -3,8 +3,6 @@ package blackjack;
 import java.util.ArrayList;
 import java.util.Random;
 
-import javax.net.ssl.SSLEngineResult.HandshakeStatus;
-
 import deckOfCards.*;
 
 /* This class contains a few instance methods and a few private static methods which can be used to instantiate a
