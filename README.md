@@ -41,7 +41,7 @@ Import the project into your preffered IDE as a Java project.
 
 ### Example Usage:
 
-(images/example.png)
+![bggame](images/example.png)
 
 ### Project Structure
 
