@@ -1,4 +1,4 @@
-# MinimumSnippet Search Engine Project
+# Blackjack Game
 
 ## Overview
 
